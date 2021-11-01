@@ -7,3 +7,8 @@
 ## Grid of Line Charts
 
 <div class="flourish-embed flourish-chart" data-src="visualisation/7692245"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+
+
+## Singe Line Chart Filtered by Year
+
+<div class="flourish-embed flourish-chart" data-src="visualisation/7694882"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
