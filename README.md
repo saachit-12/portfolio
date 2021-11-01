@@ -12,4 +12,4 @@ Here is my portfolio.
 
 # Visualizing Government Debt
 
-Link Here: [a relative link](dataviz2.html)
+Link Here: https://saachit-12.github.io/portfolio/dataviz2.html 
