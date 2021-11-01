@@ -2,7 +2,7 @@
 
 ## 1. Countrywise Trends of Debt to GDP Ratio - Bar Chart 
 
-<iframe src="https://data.oecd.org/chart/6vtO" width="860" height="645" style="border: 0" mozallowfullscreen="true" webkitallowfullscreen="true" allowfullscreen="true"><a href="https://data.oecd.org/chart/6vtO" target="_blank">OECD Chart: General government debt, Total, % of GDP, Annual, 2020</a></iframe>
+<iframe src="https://data.oecd.org/chart/6vxC" width="860" height="645" style="border: 0" mozallowfullscreen="true" webkitallowfullscreen="true" allowfullscreen="true"><a href="https://data.oecd.org/chart/6vxC" target="_blank">OECD Chart: General government debt, Total, % of GDP, Annual, 2020</a></iframe>
 
 
 ## 2. Countrywise Trends of Debt to GDP Ratio - Grid of Line Charts
