@@ -13,3 +13,7 @@ Here is my portfolio.
 # Visualizing Government Debt
 
 [Link Here](/dataviz2.md)
+
+# Data Visualization Critique
+
+[Link Here](/dataviz3.md)
