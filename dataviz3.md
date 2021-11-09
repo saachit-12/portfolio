@@ -55,7 +55,7 @@ Both participants got the idea that the graph was representing a comparision bet
 # Step 5) Build Solution:
 
 Link to tableau visual:
-https://public.tableau.com/views/RedesignedDataVisualization/Sheet1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link 
+https://public.tableau.com/views/RedesignedDataVisualization/Sheet1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link
 
 <p> I used Tableau to create a visualization to represent the number of vaccinations per capita for a country. The countireswere differentiaited based on high the per capita metric was. The color palette chosen was a green gradient as a COVID vaccine represents something positive. </p>
 
