@@ -1,9 +1,9 @@
-Step 1) Select a Visualization 
+# Step 1) Select a Visualization 
 
 <iframe src="https://ourworldindata.org/grapher/cumulative-covid-19-vaccinations-vs-population" loading="lazy" style="width: 100%; height: 600px; border: 0px none;"></iframe>
 
 
-Step 2) Data Visualization Critique
+# Step 2) Data Visualization Critique
 
 <p>
  Record of responses for Data Visualization Effectiveness Profile:  
@@ -14,14 +14,14 @@ The Graph is interactive; we can click on a single data point to isolate it (gre
 I would remove the the dotted lines representing the kind of doses of the vaccine. All the this in added information about where each country stands with regard to COVID doses, it doesn't really add to the aesthetic and perceptibility of the visual.
  </p>
 
-Step 3) Wireframe Solutions
+# Step 3) Wireframe Solutions
 Since the data contains countrywise data and associated metrics I thought that the data could be best visualized using a of heat map of the world. The datasource provides the total number of COVID cases per country and the country's population. This data can be used for any comparision chart.
 The per capita cumulative covid cases for a country can than be compared.
 
 <img src="Image-1.jpg"/>
 
 
-Step 4) Test Solution
+# Step 4) Test Solution
 
 Answering the following the questions of the visualization
 
@@ -52,13 +52,12 @@ Participant 2:
 Both participants got the idea that the graph was representing a comparision between countries related to the COVID vaccine administration. The wireframe fell short to clearly explaining what the visual intented to do from the title.
 
 
-Step 5) Build Solution
+# Step 5) Build Solution:
+
+Link to tableau visual:
+https://public.tableau.com/views/RedesignedDataVisualization/Sheet1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link 
+
+<p> I used Tableau to create a visualization to represent the number of vaccinations per capita for a country. The countireswere differentiaited based on high the per capita metric was. The color palette chosen was a green gradient as a COVID vaccine represents something positive. </p>
 
 
-<div class='tableauPlaceholder' id='viz1636431319996' style='position: relative'><noscript><a href='#'><img alt=' Countrywise Comparision based the  Covid Vaccines Administered Per Capita  ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;YF&#47;YF8749RZ6&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='path' value='shared&#47;YF8749RZ6' /> <param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;YF&#47;YF8749RZ6&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /><param name='filter' value='publish=yes' /></object></div>                
-<script type='text/javascript'>                    var divElement = document.getElementById('viz1636431319996');                    var vizElement = divElement.getElementsByTagName('object')[0];                   
- vizElement.style.width='100%';vizElement.style.height=(divElement.offsetWidth*0.75)+'px';                   
- var scriptElement = document.createElement('script');                   
- scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                   
- vizElement.parentNode.insertBefore(scriptElement, vizElement); </script>
 
