@@ -2,6 +2,7 @@ Step 1) Select a Visualization
 
 <iframe src="https://ourworldindata.org/grapher/cumulative-covid-19-vaccinations-vs-population" loading="lazy" style="width: 100%; height: 600px; border: 0px none;"></iframe>
 
+
 Step 2) Data Visualization Critique
 
 <p>
