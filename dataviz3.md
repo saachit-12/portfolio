@@ -47,7 +47,7 @@ Participant 2:
 - A2 The map is comparing countries based on the number of doses of the COVID Vaccine administered
 - A3 The legend needs to be clearer with what is being measured.
 - A4 The intended audience of the graph are people who are tracking daily COVID cases
-- A5 Clearer context to the graph, better title
+- A5 Clearer context to the graph, better title, change the color of the heatmap from green to something more neutral.
 
 Both participants got the idea that the graph was representing a comparision between countries related to the COVID vaccine administration. The wireframe fell short to clearly explaining what the visual intented to do from the title.
 
