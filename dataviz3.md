@@ -1,9 +1,9 @@
-# Step 1) Select a Visualization 
+## Step 1) Select a Visualization 
 
 <iframe src="https://ourworldindata.org/grapher/cumulative-covid-19-vaccinations-vs-population" loading="lazy" style="width: 100%; height: 600px; border: 0px none;"></iframe>
 
 
-# Step 2) Data Visualization Critique
+## Step 2) Data Visualization Critique
 
 <p>
  Record of responses for Data Visualization Effectiveness Profile:  
@@ -14,14 +14,14 @@ The Graph is interactive; we can click on a single data point to isolate it (gre
 I would remove the the dotted lines representing the kind of doses of the vaccine. All the this in added information about where each country stands with regard to COVID doses, it doesn't really add to the aesthetic and perceptibility of the visual.
  </p>
 
-# Step 3) Wireframe Solutions
+## Step 3) Wireframe Solutions
 Since the data contains countrywise data and associated metrics I thought that the data could be best visualized using a of heat map of the world. The datasource provides the total number of COVID cases per country and the country's population. This data can be used for any comparision chart.
 The per capita cumulative covid cases for a country can than be compared.
 
 <img src="Image-1.jpg"/>
 
 
-# Step 4) Test Solution
+## Step 4) Test Solution
 
 Answering the following the questions of the visualization
 
@@ -52,7 +52,7 @@ Participant 2:
 Both participants got the idea that the graph was representing a comparision between countries related to the COVID vaccine administration. The wireframe fell short to clearly explaining what the visual intented to do from the title.
 
 
-# Step 5) Build Solution:
+## Step 5) Build Solution:
 
 <p> Link to Redesigned Visualization: 
 <a href="https://public.tableau.com/views/RedesignedDataVisualization/Sheet1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link"> Link to Tableau Visualization </a> </p>
