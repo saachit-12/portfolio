@@ -43,11 +43,11 @@ Participant 1:
  - A5 List the countries on the graph/ or pop-up. The title of the graph needs to be more clear and descriptive. 
 
 Participant 2:
--A1 The first impression of it that it is map measuring the severity of an issue
--A2 The map is comparing countries based on the number of doses of the COVID Vaccine administered
--A3 The legend needs to be clearer with what is being measured.
--A4 The intended audience of the graph are people who are tracking daily COVID cases
--A5 Clearer context to the graph, better title
+- A1 The first impression of it that it is map measuring the severity of an issue
+- A2 The map is comparing countries based on the number of doses of the COVID Vaccine administered
+- A3 The legend needs to be clearer with what is being measured.
+- A4 The intended audience of the graph are people who are tracking daily COVID cases
+- A5 Clearer context to the graph, better title
 
 Both participants got the idea that the graph was representing a comparision between countries related to the COVID vaccine administration. The wireframe fell short to clearly explaining what the visual intented to do from the title.
 
