@@ -36,18 +36,18 @@ Answering the following the questions of the visualization
 - Is there anything you would change or do differently?
 
 Participant 1:
-A1) The first impression of it that it is a heat map. 
-A2) It represents the number of vaccine doeses adimistered per country and there is some sort of comparision between countries.
-A3) I don't know what the units of the values used to create the visual are because of t.
-A4) The intended audience of the graph are researchers, people interested in the COVID vaccine. 
-A5) List the countries on the graph/ or pop-up. The title of the graph needs to be more clear and descriptive. 
+ - A1 The first impression of it that it is a heat map. 
+ - A2 It represents the number of vaccine doeses adimistered per country and there is some sort of comparision between countries.
+ - A3 I don't know what the units of the values used to create the visual are. 
+ - A4 The intended audience of the graph are researchers, people interested in the COVID vaccine. 
+ - A5 List the countries on the graph/ or pop-up. The title of the graph needs to be more clear and descriptive. 
 
 Participant 2:
-A1) The first impression of it that it is map measuring the severity of an issue
-A2) The map is comparing countries based on the number of doses of the COVID Vaccine administered
-A3) The legend needs to be clearer with what is being measured.
-A4) The intended audience of the graph are people who are tracking daily COVID cases.
-A5) Clearer context to the graph, better title
+-A1 The first impression of it that it is map measuring the severity of an issue
+-A2 The map is comparing countries based on the number of doses of the COVID Vaccine administered
+-A3 The legend needs to be clearer with what is being measured.
+-A4 The intended audience of the graph are people who are tracking daily COVID cases
+-A5 Clearer context to the graph, better title
 
 Both participants got the idea that the graph was representing a comparision between countries related to the COVID vaccine administration. The wireframe fell short to clearly explaining what the visual intented to do from the title.
 
