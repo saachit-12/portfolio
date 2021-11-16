@@ -55,7 +55,8 @@ Important Attributes: Country Code, Public Health Expenditures as a % of GDP
 ![10209-PDF-ENG-152-2](https://user-images.githubusercontent.com/71638700/141886496-031aaf54-fc1e-4fae-b3e5-44f34082cebd.jpg)
 ![10209-PDF-ENG-153](https://user-images.githubusercontent.com/71638700/141886614-d52b573a-9357-4ba6-ade5-081d63d570f6.jpg)
 ![10209-PDF-ENG-154](https://user-images.githubusercontent.com/71638700/141886702-e15244a3-d598-4f1c-b2c8-d28bddd14142.jpg)
-![10209-PDF-ENG-155](https://user-images.githubusercontent.com/71638700/141886827-feba9088-5040-4c48-b086-24a9b0b26212.jpg)
+![Image-1-2](https://user-images.githubusercontent.com/71638700/141888774-01ef9c4d-3094-45a3-9952-5ea64118ac8d.jpg)
+
 
 # Method and Medium
 
