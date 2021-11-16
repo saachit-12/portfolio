@@ -15,11 +15,9 @@ c) Government Spending as a % of GDP in 2020 (Top 5)
 
 d) Analyzing Government Spending Behavior in the Health Care overtime  -  Devloping vs Developed Country (eg. India Vs USA)
 
-e) Analyzing Social Government Spending Behavior 
+e) Analyzing Social Government Spending Behavior.
 
-f) Interesting facts from Data
-
-
+f) Interesting facts from Data.
 
 # Data 
 
@@ -30,12 +28,11 @@ Countrywise GDP, 2020:  https://data.worldbank.org/indicator/NY.GDP.MKTP.CD?end=
 CSV file contains countrywise data about the GDP (in $ Trillions) from the year 1960-2020
 Impotrtant Attributes: Country Code, GDP
 
-Government Expenditure as a % of GDP: https://ourworldindata.org/government-spending 
+Government Expenditure as a % of GDP: https://ourworldindata.org/government-spending  
 About Data: CSV file contains Government Expenditures as a % of GDP from 1880 to 2011
 Important Attributes: Year, Country Code, Expense (% of GDP)
 
 <iframe src="https://ourworldindata.org/grapher/total-gov-expenditure-gdp-wdi?time=latest&country=IND~~PER~USA~DEU~GBR" loading="lazy" style="width: 100%; height: 600px; border: 0px none;"></iframe>
-
 
 Complementary Datasources:
 
@@ -60,7 +57,7 @@ Important Attributes: Country Code, Public Health Expenditures as a % of GDP
 
 # Method and Medium
 
-The final project will be built using digital story creator short-hand.  I will build the visualizations using a combination of Tableau and Flourish. </p>
+The final project will be built using digital story creator short-hand.  I will build the visualizations using a combination of Tableau and Flourish.
 The first two graphs related to the GDP and Government Spending will set context to the point being made - a countrywise comparision of spending behaviors between countires. 
 
 
