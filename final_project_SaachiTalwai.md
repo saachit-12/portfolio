@@ -9,32 +9,76 @@ Project Structure:
 
 a) Story brief
 
-b) Chart - 1
+b) Comparing Countries with the Highest GDP (Top 10)
 
-c) Chart - 2
+c) Government Spending as a % of GDP in 2020 (Top 5)
 
-d) Chart - 3
+d) Analyzing Government Spending Behavior in the Health Care overtime  -  Devloping vs Developed Country (eg. India Vs USA)
 
-e) Chart - 4 
+e) Analyzing Social Government Spending Behavior 
+
+f) Interesting facts from Data
+
 
 
 # Data 
 
-Primary Data sources:
+Primary Data Sources:
 
 Countrywise GDP, 2020:  https://data.worldbank.org/indicator/NY.GDP.MKTP.CD?end=2020&start=2020&view=map
-Government Expenditure as a % of GDP: http://data.worldbank.org/data-catalog/world-development-indicators
 
-Complementarty Datasources:
+CSV file contains countrywise data about the GDP (in $ Trillions) from the year 1960-2020
+Impotrtant Attributes: Country Code, GDP
 
-Social Spending Behavior as of 2016 
-http://stats.oecd.org/Index.aspx?datasetcode=SOCX_AGG. OECD (1985): http://www.worldcat.org/title/social-expenditure-1960-1990-problems-of-growth-and-control/oclc/568030375&referer=brief_results. Lindert (2004): http://www.worldcat.org/title/growing-public-social-spending-and-economic-growth-since-the-eighteenth-century/oclc/799512151&referer=brief_results
+Government Expenditure as a % of GDP: https://ourworldindata.org/government-spending 
+About Data: CSV file contains Government Expenditures as a % of GDP from 1880 to 2011
+Important Attributes: Year, Country Code, Expense (% of GDP)
+
+<iframe src="https://ourworldindata.org/grapher/total-gov-expenditure-gdp-wdi?time=latest&country=IND~~PER~USA~DEU~GBR" loading="lazy" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+
+
+Complementary Datasources:
+
+Social Spending Behavior
+OECD (1985): https://ourworldindata.org/grapher/social-expenditure-as-percentage-of-gdp?country=~OECD+-+Total
+About Data: CSV file contains 
+Important Attributes: Entity	Code,	Year,	Social expenditure on family (% of GDP) (OECD Stats (2019)), Social expenditure on health (% of GDP) (OECD Stats (2019)) Social expenditure on housing (% of GDP) (OECD Stats (2019)),	Incapacity related social expenditures (% of GDP) (OECD Stats (2019)),	Old age related social expenditures (% of GDP) (OECD Stats (2019)),	Social expenditure on other social policy areas (% of GDP) (OECD Stats (2019)),	Social expenditure on survivors (% of GDP) (OECD Stats (2019)),	Social expenditure on unemployment (% of GDP) (OECD Stats (2019)),	Social expenditure on active labor market policies (% of GDP) (OECD Stats (2019))
+
+
 
 Countrywise Health Care Expenditure:
-https://ourworldindata.org/government-spending
-http://www.sciencedirect.com/science/article/pii/S0014498384710011.
-OECD (1993): http://www.worldcat.org/title/oecd-health-systems/oclc/868237125&referer=brief_results. 
-OECD.stat: http://stats.oecd.org/. WHO Global Health Expenditure Database: http://apps.who.int/nha/database/Select/Indicators/en
+https://ourworldindata.org/grapher/public-health-expenditure-share-gdp-owid
+Abou Data: CSV file contains Public Health Expenditures as a % of GDP
+Important Attributes: Country Code, Public Health Expenditures as a % of GDP
+
+
+# Sketches
+
+
+![10209-PDF-ENG-152-2](https://user-images.githubusercontent.com/71638700/141886496-031aaf54-fc1e-4fae-b3e5-44f34082cebd.jpg)
+
+![10209-PDF-ENG-153](https://user-images.githubusercontent.com/71638700/141886614-d52b573a-9357-4ba6-ade5-081d63d570f6.jpg)
+
+![10209-PDF-ENG-154](https://user-images.githubusercontent.com/71638700/141886702-e15244a3-d598-4f1c-b2c8-d28bddd14142.jpg)
+
+![10209-PDF-ENG-155](https://user-images.githubusercontent.com/71638700/141886827-feba9088-5040-4c48-b086-24a9b0b26212.jpg)
+
+
+
+# Method and Medium
+
+<p> The final project will be built using digital story creator short-hand.  I will build the visualizations using a combination of Tableau and Flourish. </p>
+  
+<p> The first two graphs related to the GDP and Government Spending will set context to the point being made - a countrywise comparision of spending behaviors between countires. </p>
+
+
+
+
+
+
+
+
+
 
 
 
