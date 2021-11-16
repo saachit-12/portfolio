@@ -25,7 +25,7 @@ Primary Data Sources:
 
 Countrywise GDP, 2020:  https://data.worldbank.org/indicator/NY.GDP.MKTP.CD?end=2020&start=2020&view=map
 
-CSV file contains countrywise data about the GDP (in $ Trillions) from the year 1960-2020
+CSV file contains countrywise data about the GDP (in $ Trillions) from the year 1960-2020 \n
 Impotrtant Attributes: Country Code, GDP
 
 Government Expenditure as a % of GDP: https://ourworldindata.org/government-spending  
