@@ -44,8 +44,6 @@ OECD (1985): https://ourworldindata.org/grapher/social-expenditure-as-percentage
 About Data: CSV file contains 
 Important Attributes: Entity	Code,	Year,	Social expenditure on family (% of GDP) (OECD Stats (2019)), Social expenditure on health (% of GDP) (OECD Stats (2019)) Social expenditure on housing (% of GDP) (OECD Stats (2019)),	Incapacity related social expenditures (% of GDP) (OECD Stats (2019)),	Old age related social expenditures (% of GDP) (OECD Stats (2019)),	Social expenditure on other social policy areas (% of GDP) (OECD Stats (2019)),	Social expenditure on survivors (% of GDP) (OECD Stats (2019)),	Social expenditure on unemployment (% of GDP) (OECD Stats (2019)),	Social expenditure on active labor market policies (% of GDP) (OECD Stats (2019))
 
-
-
 Countrywise Health Care Expenditure:
 https://ourworldindata.org/grapher/public-health-expenditure-share-gdp-owid
 Abou Data: CSV file contains Public Health Expenditures as a % of GDP
@@ -53,7 +51,6 @@ Important Attributes: Country Code, Public Health Expenditures as a % of GDP
 
 
 # Sketches
-
 
 ![10209-PDF-ENG-152-2](https://user-images.githubusercontent.com/71638700/141886496-031aaf54-fc1e-4fae-b3e5-44f34082cebd.jpg)
 
@@ -63,13 +60,11 @@ Important Attributes: Country Code, Public Health Expenditures as a % of GDP
 
 ![10209-PDF-ENG-155](https://user-images.githubusercontent.com/71638700/141886827-feba9088-5040-4c48-b086-24a9b0b26212.jpg)
 
-
-
 # Method and Medium
 
-<p> The final project will be built using digital story creator short-hand.  I will build the visualizations using a combination of Tableau and Flourish. </p>
+The final project will be built using digital story creator short-hand.  I will build the visualizations using a combination of Tableau and Flourish. </p>
   
-<p> The first two graphs related to the GDP and Government Spending will set context to the point being made - a countrywise comparision of spending behaviors between countires. </p>
+The first two graphs related to the GDP and Government Spending will set context to the point being made - a countrywise comparision of spending behaviors between countires. 
 
 
 
