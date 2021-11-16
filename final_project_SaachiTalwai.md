@@ -23,12 +23,12 @@ f) Interesting facts from Data.
 
 Primary Data Sources:
 
-Countrywise GDP, 2020:  https://data.worldbank.org/indicator/NY.GDP.MKTP.CD?end=2020&start=2020&view=map
+<p> Countrywise GDP, 2020:  https://data.worldbank.org/indicator/NY.GDP.MKTP.CD?end=2020&start=2020&view=map </p>
 About Data: CSV file contains countrywise data about the GDP (in $ Trillions) from the year 1960-2020.
 Impotrtant Attributes: Country Code, GDP
 
 Government Expenditure as a % of GDP: https://ourworldindata.org/government-spending  
-About Data: CSV file contains Government Expenditures as a % of GDP from 1880 to 2011
+<p> About Data: CSV file contains Government Expenditures as a % of GDP from 1880 to 2011 </p>
 Important Attributes: Year, Country Code, Expense (% of GDP)
 
 <iframe src="https://ourworldindata.org/grapher/total-gov-expenditure-gdp-wdi?time=latest&country=IND~~PER~USA~DEU~GBR" loading="lazy" style="width: 100%; height: 600px; border: 0px none;"></iframe>
