@@ -7,8 +7,8 @@ https://carnegiemellon.shorthandstories.com/government-expenditure-in-the-usa-a-
 <p> Method of finding interviewees: Individuals in the MISM and MSPPM program interested in Government, Policy and Economics </p>
 
 ## Interview Script:
-Q1. What is your idea about the storyboard from its titlepage
-Q2. What do you think is the idea relayed from Chart 1
+- Q1. What is your idea about the storyboard from its titlepage
+- Q2. What do you think is the idea relayed from Chart 1
 Q3. Thoughts of the Chart Choice?
 Q4. Thoughts on the Color Palette?
 Q5. What do you think is the idea relayed from Chart 2
