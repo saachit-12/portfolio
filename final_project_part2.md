@@ -1,3 +1,4 @@
+<html>
 # Shorthand Link
 https://carnegiemellon.shorthandstories.com/government-expenditure-in-the-usa-a-snapshot/index.html
 
@@ -43,3 +44,4 @@ However unanimous feedback is that only Italy and USA should be highlighted. (Th
 - A13. U1 and U2 don't mind the color palette as there is no specific color that comes to mind when you think of Government Expenditure, U3 suggests a cool color like blue to be the theme of the graphs.
 
 Final Feedback: All users like the black and white theme used on Short Hand.n U1 feels that the text in the storyboard needs to be consistent with the word "social" and not use public as well. U2, U3 feel that the call to action needs to be more fleshed out.
+  </html>
