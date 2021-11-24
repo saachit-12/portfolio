@@ -4,8 +4,8 @@ https://carnegiemellon.shorthandstories.com/government-expenditure-in-the-usa-a-
 
 ## User Interviews:
 
-<p> <b> Target Audience: Largely anyone with knowledge in Government and Economics <b> </p>
-<p> <b>  Method of finding interviewees: Individuals in the MISM and MSPPM program interested in Government, Policy and Economics <b> </p>
+ <b> Target Audience: Largely anyone with knowledge in Government and Economics <b> </p>
+<b>  Method of finding interviewees: Individuals in the MISM and MSPPM program interested in Government, Policy and Economics <b>
 
 ## Interview Script:
 - Q1. What is your idea about the storyboard from its titlepage
