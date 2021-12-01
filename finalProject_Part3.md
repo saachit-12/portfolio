@@ -9,7 +9,7 @@ After receiving user feedback these are the following changes I made to the proj
   - Added a reference page at the end of my story.
   - Edited axes titles of the first graph to be more concise and intuitve.
   - Edited Tool tips to be more descriptive.
-  -
+  
  
  # Design Decisions:
  
@@ -17,10 +17,19 @@ After receiving user feedback these are the following changes I made to the proj
  - I chose Tableau to do my visualizations as it is a more powerful tool to modify the data for a visual with DAX expressions and conditional statements.
  - I chose to use Side-By-Side layout on ShortHand so that each visual has helper text, or an insight.
  - The colors I primarily chose for the visuals were warm - orange, yellow and brown. I chose them because they can be considered neutral colors for Government   Expenditure.
- 
- 
- # Shorthand Link
+
+# Shorthand Link
 https://carnegiemellon.shorthandstories.com/government-expenditure-in-the-usa-a-snapshot/index.html
 
-# References
+# References 
+
+Countrywise GDP, 2020: https://data.worldbank.org/indicator/NY.GDP.MKTP.CD?end=2020&start=2020&view=map
+Government Expenditure as a % of GDP: https://ourworldindata.org/government-spending 
+Social Expenditure as a % of GDP: https://ourworldindata.org/grapher/social-expenditure-as-percentage-of-gdp?country=~OECD+-+Total
+Health Care as a % of GDP: https://ourworldindata.org/grapher/public-health-expenditure-share-gdp-owid 
+USA education and other countries: https://www.washingtonpost.com/news/wonk/wp/2018/05/16/the-u-s-spends-less-on-children-than-almost-any-other-developed-nation/
+US Health Care Status: https://www.peoplespolicyproject.org/2018/03/26/the-u-s-spends-far-too-little-on-social-welfare/
+
+
+
 
