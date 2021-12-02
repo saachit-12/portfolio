@@ -1,7 +1,7 @@
 
 
 # Overview
-The ShortHand story board I created visualizes where the United States stands in terms of its social expenditure compared to other countries.
+The Shorthand story board I created visualizes where the United States stands in terms of its social expenditure compared to other countries.
 The call to action seeking legislative action to make reforms to existing social expenditure norms by the Government.
 The story follows a top-down approach where I explain USAs position in terms of its GDP and the narrow down the story to explaining the share of its GDP it spends on Social welfare and then Health Care. 
 
