@@ -8,7 +8,7 @@ The story follows a top-down approach where I explain USAs position in terms of 
 # Changes Made
 
 After receiving user feedback these are the following changes I made to the project
-  - I changed the title of the story to be more focussed on the US, since all the visualizations are 
+  - I changed the title of the story to be more focussed on the US, since all the visualizations are related to its position in social spending.
   - I replaced the map with a Tree Map, which is more intuitive about the % of GDP of Health Care for a subset of countries than a geographical heat map for scattered countries.
   - I highlighted Italy, Sweden and USA as opposed to all the countries in the Trend Line Map for Social Spending Across Countries
   - I gave my call to action more content.
