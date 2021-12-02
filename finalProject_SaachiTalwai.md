@@ -17,7 +17,7 @@ After receiving user feedback these are the following changes I made to the proj
   - Edited Tool tips to be more descriptive.
   
  
- # Design Decisions:
+ # Design Decisions
  
  - Most of my visuals are graphs that can easily compare  metrics between Countries
  - I chose Tableau to do my visualizations as it is a more powerful tool to modify the data for a visual with DAX expressions and conditional statements.
