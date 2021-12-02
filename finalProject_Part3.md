@@ -21,6 +21,8 @@ After receiving user feedback these are the following changes I made to the proj
 # Shorthand Link
 https://carnegiemellon.shorthandstories.com/government-expenditure-in-the-usa-a-snapshot/index.html
 
+<script src="https://carnegiemellon.shorthandstories.com/government-expenditure-in-the-usa-a-snapshot/embed.js"></script>
+
 # References 
 
 Countrywise GDP, 2020: https://data.worldbank.org/indicator/NY.GDP.MKTP.CD?end=2020&start=2020&view=map
