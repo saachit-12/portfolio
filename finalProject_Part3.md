@@ -1,4 +1,10 @@
 
+
+# Overview
+The ShortHand story board I created visualizes where the United States stands in terms of its social expenditure compared to other countries.
+The call to action seeking legislative action to make reforms to existing social expenditure norms by the Government.
+The story follows a top-down approach where I explain USAs position in terms of its GDP and the narrow down the story to explaining the share of its GDP it spends on Social welfare and then Health Care. 
+
 # Changes Made
 
 After receiving user feedback these are the following changes I made to the project
@@ -23,14 +29,7 @@ https://carnegiemellon.shorthandstories.com/government-expenditure-in-the-usa-a-
 
 <script src="https://carnegiemellon.shorthandstories.com/government-expenditure-in-the-usa-a-snapshot/embed.js"></script>
 
-# References 
 
-Countrywise GDP, 2020: https://data.worldbank.org/indicator/NY.GDP.MKTP.CD?end=2020&start=2020&view=map
-Government Expenditure as a % of GDP: https://ourworldindata.org/government-spending 
-Social Expenditure as a % of GDP: https://ourworldindata.org/grapher/social-expenditure-as-percentage-of-gdp?country=~OECD+-+Total
-Health Care as a % of GDP: https://ourworldindata.org/grapher/public-health-expenditure-share-gdp-owid 
-USA education and other countries: https://www.washingtonpost.com/news/wonk/wp/2018/05/16/the-u-s-spends-less-on-children-than-almost-any-other-developed-nation/
-US Health Care Status: https://www.peoplespolicyproject.org/2018/03/26/the-u-s-spends-far-too-little-on-social-welfare/
 
 
 
