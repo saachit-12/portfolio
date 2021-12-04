@@ -94,10 +94,10 @@ Both participants got the idea that the graph was representing a comparision bet
 
 # Final Project:
 I decided to choose 'Social Expenditure in the United States' as a story to visualize using ShortHand.
-# Part 1:
+## Part 1:
 Link: https://saachit-12.github.io/portfolio/finalProject_Part1.html
   
-# Part 2
+## Part 2
 Link: https://saachit-12.github.io/portfolio/final_project_part2SaachiTalwai.html
-# Part 3
+## Part 3
 Link:  https://saachit-12.github.io/portfolio/finalProject_SaachiTalwai.html
